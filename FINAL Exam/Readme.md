@@ -1,1 +1,1 @@
-File hasil reproduce paper/code dinamai dengan OUTPUT_Code1 untuk CNNs for MNIST dan OUTPUT_Code2 untuk Twitter Sentiment Analysis
+File hasil reproduce paper/code dinamai dengan OUTPUT_code1 untuk CNNs for MNIST dan OUTPUT_code2 untuk Twitter Sentiment Analysis
